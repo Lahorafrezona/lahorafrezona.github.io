@@ -2,9 +2,9 @@
 layout: post
 read_time: false
 show_date: false
-title: "LA HORA FREZONA DEL RADITZ | CAPITULO 1"
+title: "LA HORA FREZONA DEL RADITZ | CAPITULO 2"
 date: 2021-04-20
-img: posts/cap1.jpg
+img: posts/cap2.jpg
 tags: [Respondiendo preguntas]
 category: Capitulo
 author: Kamehousestudio
