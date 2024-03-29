@@ -3,10 +3,10 @@ title: 🍓 LA HORA FREZONA DEL RADITZ
 description: 'KAMEHOUSESTUDIO pequeña y coqueta productora de animaciones creada por SEÑOR CONEJO.' # this means to ignore newlines until "baseurl:"
 permalink: ':title:output_ext'
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://the-mvm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://lahorafrezona.github.io/"
 logo: "/assets/img/branding/MVM-logo-full.svg"
-logo-icon: "/assets/img/branding/MVM-symbol.svg"
-logo-icon-SEO: "/assets/img/branding/MVM-symbol-black.png" # must be a non SVG file
+logo-icon: 
+logo-icon-SEO: 
 
 # Night/Dark mode
 # Default mode is "auto", "auto" is for auto nightshift
@@ -25,14 +25,13 @@ highlight_theme: syntax-base16.monokai.dark # select a dark theme for the code h
 
 # Author settings
 author: Kamehousestudio # add your name
-author-pic: Myself_Neon_grey.jpg
+author-pic: "/assets/img/Myself_Neon_grey.jpg"
 about-author: Pequeña y coqueta productora de animaciones creada por SEÑOR CONEJO.
 
 # Contact links
 email: nocontact@gmail.com # Add your Email address
 phone: # Add your Phone number
 website: https://www.youtube.com/@KamehouseStudio
-github:  # Add your Github handle
 twitter: '@OficialLHFDR'
 Facebook: facebook.com/LaHoraFrezonaDelRaditz
 
