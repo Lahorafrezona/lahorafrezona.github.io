@@ -3,7 +3,7 @@ layout: post
 read_time: false
 show_date: false
 title: "LA HORA FREZONA DEL RADITZ | CAPITULO 3"
-date: 2021-04-20
+date: 2022-03-19
 img: posts/cap3.jpg
 tags: [Respondiendo preguntas]
 category: Capitulo
