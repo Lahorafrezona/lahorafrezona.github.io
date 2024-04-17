@@ -16,7 +16,6 @@ Desde entonces hemos pasado por varias transiciones y cambios de formato en el p
 
 Muchas gracias a todos por el apoyo y esperen nuevos capítulos próximamente, de momento disfruten.
 
-<center>
 <iframe width="560" height="315" src="https://www.pornhub.com/embed/661fe0284a6ad" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
+
 
