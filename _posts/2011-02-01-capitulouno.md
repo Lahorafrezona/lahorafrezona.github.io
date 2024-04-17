@@ -4,7 +4,7 @@ read_time: false
 show_date: false
 title: "LA HORA FREZONA DEL RADITZ | CAPITULO 1"
 date: 2024-04-17
-img: posts/cap3.jpg
+img: posts/cap1.jpg
 tags: [Respondiendo preguntas]
 category: Capitulo
 author: Kamehousestudio
