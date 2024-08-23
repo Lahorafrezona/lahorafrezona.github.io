@@ -4,7 +4,7 @@ read_time: false
 show_date: false
 title: "LEYENDO COMENTARIOS MECOS"
 date: 2021-04-03
-img: posts/cap3.jpg
+img: posts/Comentarios.jpg
 tags: [Comentarios Mecos]
 category: Capitulo
 author: Kamehousestudio
