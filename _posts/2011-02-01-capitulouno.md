@@ -14,6 +14,6 @@ El staff se reune para grabar su primer capitulo en video ¿seran capaces de hac
 Fecha original: 2011-02-01
 
 <center>
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://geo.dailymotion.com/player.html?video=x94gtxq" width="100%" height="100%" allowfullscreen title="Dailymotion Video Player" allow="web-share" </iframe> </div>
+<iframe width="560" height="315" src="https://www.dailymotion.com/video/x94gtxq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </center>
 
