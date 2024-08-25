@@ -13,5 +13,5 @@ description:
 En esta nueva sección vamos a revisar los comentarios más cringe que encontramos en grupos de Facebook y Youtube con temática de Dragon Ball.
 
 <center>
-<iframe width="560" height="315" src="https://www.pornhub.com/embed/669c00d9dbd48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
